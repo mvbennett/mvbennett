@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 my name is Mike.
+
+-I'm a web developer, photographer, and coffee lover. I'm most comfortable working with Ruby on Rails, JavaScript, and React but can always use a good excuse to try new things.
 
 <!--
 **mvbennett/mvbennett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
