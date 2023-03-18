@@ -1,8 +1,14 @@
 ### Hi there 👋 my name is Mike.
 
-I'm a web developer, photographer, and coffee lover. I'm most comfortable working with Ruby on Rails, JavaScript, and React but can always use a good excuse to try new things.
+I’m a developer mainly focused on web apps across the stack using Ruby on Rails, PostgreSQL, JavaScript, React, and Next.js. Currently involved in supporting small-sized organizations such as Acme Hall Studios and CBID. 
 
-Check out my [profile](https://mvbennett.me)
+I’ve infused my design work and photography into the web apps I’ve developed - I am always seeking to add personality to what I create or collaborate on. 
+
+As my next step I’m looking to be part of a small team either at a startup or medium-sized business.
+
+Check out some of my work here: https://mvbennett.me
+
+I’m also a huge coffee nerd and always down to meet and talk about web development, software engineering, or coffee culture. Feel free to message me!
 
 <!--
 **mvbennett/mvbennett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
